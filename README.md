@@ -39,3 +39,5 @@ The **TorZon Market** is a hub for numerous offerings. The correct **TorZon dark
 ### Disclaimer:
 
 This guide is for education. We do not endorse illegal activities.
+
+Update:  Thursday 26 June 2025
