@@ -42,4 +42,6 @@ This guide is for education. We do not endorse illegal activities.
 
 
 
-Update: url is live and working
+
+
+Update:  07/07/2025 11-52
