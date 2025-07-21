@@ -48,4 +48,6 @@ This guide is for education. We do not endorse illegal activities.
 
 
 
-Update: Template URLs
+
+
+Update:  07/21/2025 url is active and operational
