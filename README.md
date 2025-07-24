@@ -50,4 +50,6 @@ This guide is for education. We do not endorse illegal activities.
 
 
 
-Update:  07/21/2025 url is active and operational
+
+
+Update:  Thursday 24 July 2025 url is live again
