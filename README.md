@@ -52,4 +52,6 @@ This guide is for education. We do not endorse illegal activities.
 
 
 
-Update:  Thursday 24 July 2025 url is live again
+
+
+Update:  Monday 04 August 2025
