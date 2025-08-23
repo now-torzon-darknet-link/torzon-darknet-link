@@ -58,4 +58,6 @@ This guide is for education. We do not endorse illegal activities.
 
 
 
-Update:  19 August Link is now reachable
+
+
+Update:  23 August
