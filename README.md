@@ -4,11 +4,11 @@
 
 ## Finding the TorZon Darknet Link
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion
 
-[<img src="/templates/prior.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/templates/prior.webp" width="200">](http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/templates/done.webp" alt="TorZon Darknet Link" style="max-width: 100%;"></a>
+<a href="http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion"><img src="/templates/done.webp" alt="TorZon Darknet Link" style="max-width: 100%;"></a>
 
 This educational resource neither supports nor promotes illegal activities.
 
@@ -60,4 +60,6 @@ This guide is for education. We do not endorse illegal activities.
 
 
 
-Update:  23 August
+
+
+Update:  12 September
