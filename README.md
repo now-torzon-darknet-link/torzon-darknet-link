@@ -62,4 +62,6 @@ This guide is for education. We do not endorse illegal activities.
 
 
 
-Update:  12 September
+
+
+Update:  14.09.2025
