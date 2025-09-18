@@ -64,4 +64,6 @@ This guide is for education. We do not endorse illegal activities.
 
 
 
-Update:  14.09.2025
+
+
+Update:  Thursday 18 September 2025 Fixed broken url, now operational
